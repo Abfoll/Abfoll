@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Abenezer Teketel Estifanos</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer | IoT Systems Architect</h3>
+<h3 align="center">Full-Stack Developer | Electrical and Computer Engineer | IoT Systems Architect</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Building%20Scalable%20Software-green?style=for-the-badge"/>
